@@ -1,0 +1,53 @@
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.FilmingApp" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/tropical_indigo</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/persian_indigo</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.AppCompat.Body1</item>
+        <item name="itemTextAppearanceActive">@style/menuItems</item>
+        <item name="itemTextAppearanceInactive">@style/menuItems</item>
+        <item name="itemTextColor">@color/grey</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.FilmingApp.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.FilmingApp.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+    </style>
+    <style name="Theme.FilmingApp.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+    </style>
+
+    <style name="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">36sp</item>
+        <item name="android:shadowColor">@color/persian_indigo</item>
+        <item name="android:shadowRadius">30</item>
+    </style>
+    <style name="toolBarHeaders" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name="menuItems" parent="TextAppearance.AppCompat.Medium">
+        <item name="android:textSize">22dp</item>
+        <item name="android:shadowColor">@color/tropical_indigo_lighter</item>
+        <item name="android:shadowRadius">3</item>
+    </style>
+    <style name="normalText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+    <style name="normalTextHorizontal">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/grey</item>
+    </style>
+</resources>

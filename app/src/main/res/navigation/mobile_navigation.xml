@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_peliculas">
+
+    <!-- Fragmento de Películas -->
+    <fragment
+        android:id="@+id/nav_peliculas"
+        android:name="es.studium.filmingapp.ui.peliculas.PeliculasFragment"
+        android:label="@string/menu_peliculas"
+        tools:layout="@layout/fragment_peliculas">
+        <action
+            android:id="@+id/nav_peliculas_to_peliculas_imagen"
+            app:destination="@id/nav_peliculas_imagen" />
+        <action
+            android:id="@+id/nav_peliculas_to_peliculas_details"
+            app:destination="@id/fragment_peliculas_details" />
+    </fragment>
+
+    <!-- Fragmento de Series -->
+    <fragment
+        android:id="@+id/nav_series"
+        android:name="es.studium.filmingapp.ui.series.SeriesFragment"
+        android:label="@string/menu_series"
+        tools:layout="@layout/fragment_series">
+        <action
+            android:id="@+id/nav_series_to_series_imagen"
+            app:destination="@id/nav_series_imagen" />
+        <action
+            android:id="@+id/nav_series_to_series_details"
+            app:destination="@id/fragment_series_details" />
+    </fragment>
+
+    <!-- Fragmento de Películas Imagen -->
+    <fragment
+        android:id="@+id/nav_peliculas_imagen"
+        android:name="es.studium.filmingapp.ui.peliculas.PeliculasImagenFragment"
+        android:label="@string/menu_peliculas"
+        tools:layout="@layout/fragment_peliculas_imagen">
+        <action
+            android:id="@+id/nav_peliculas_imagen_to_peliculas_details"
+            app:destination="@id/fragment_peliculas_details" />
+    </fragment>
+
+    <!-- Fragmento de Series Imagen -->
+    <fragment
+        android:id="@+id/nav_series_imagen"
+        android:name="es.studium.filmingapp.ui.series.SeriesImagenFragment"
+        android:label="@string/menu_series"
+        tools:layout="@layout/fragment_series_imagen">
+        <action
+            android:id="@+id/nav_series_imagen_to_series_details"
+            app:destination="@id/fragment_series_details" />
+    </fragment>
+
+    <!-- Detalles de Películas -->
+    <fragment
+        android:id="@+id/fragment_peliculas_details"
+        android:name="es.studium.filmingapp.ui.peliculas.PeliculasFragmentDetails"
+        android:label="@string/peliculasDetails"
+        tools:layout="@layout/fragment_peliculas_details" />
+
+    <!-- Detalles de Series -->
+    <fragment
+        android:id="@+id/fragment_series_details"
+        android:name="es.studium.filmingapp.ui.series.SeriesFragmentDetails"
+        android:label="@string/SeriesDetails"
+        tools:layout="@layout/fragment_series_details" />
+
+</navigation>

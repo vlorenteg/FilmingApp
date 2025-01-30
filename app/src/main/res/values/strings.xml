@@ -1,0 +1,137 @@
+<resources>
+    <string name="app_name">FilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FilmingApp</string>
+    <string name="nav_header_subtitle">Valentín Lorente Gómez</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tocar_imagen">Toca la imagen para más detalles</string>
+
+    <string name="menu_peliculas">Películas</string>
+    <string name="menu_series">Series</string>
+
+    <string name="peliculasDetails">Detalles</string>
+    <string name="SeriesDetails">Detalles</string>
+
+    <string name="titulo">Título: </string>
+    <string name="director">Director: </string>
+    <string name="reparto">Reparto: </string>
+    <string name="clasificacion">Clasificación: </string>
+    <string name="sinopsis">Sinopsis: </string>
+    <string name="temporadas">Temporadas: </string>
+
+    <string name="titulo1">Memento</string>
+    <string name="director1">Christopher Nolan</string>
+    <string name="reparto1">Guy Pearce, Joe Pantoliano, Carrie-Anne Moss, Stephen Tobolowsky</string>
+    <string name="clasificacion1">3.7</string>
+    <string name="sinopsis1">Leonard (Guy Pearce) está buscando al hombre que violó y asesinó a su esposa. Sin embargo, la dificultad de localizar al asesino de su esposa se ve agravada por el hecho de que sufre una forma rara e intratable de pérdida de memoria. Aunque puede recordar detalles de la vida antes de su accidente, Leonard no puede recordar qué sucedió hace quince minutos, adónde iba ni por qué.</string>
+
+    <string name="titulo2">Apocalypse Now</string>
+    <string name="director2">Francis Ford Coppola</string>
+    <string name="reparto2">Marlon Brando, Matín Sheen, Dennis Hopper, Harrison Ford, Laurence Fishburne</string>
+    <string name="clasificacion2">4</string>
+    <string name="sinopsis2">En Vietnam, en 1970, el capitán Willard (Martin Sheen) emprende un peligroso y cada vez más alucinógeno viaje río arriba para encontrar y eliminar al coronel Kurtz (Marlon Brando), un oficial que alguna vez fue prometedor y que, según se dice, se ha vuelto completamente loco. En compañía de un barco patrullero de la Marina lleno de chicos de la calle, un oficial de caballería aérea obsesionado con el surf (Robert Duvall) y un fotógrafo independiente enloquecido (Dennis Hopper), Willard se adentra cada vez más en el corazón de la oscuridad.</string>
+
+    <string name="titulo3">Origen</string>
+    <string name="director3">Christopher Nolan</string>
+    <string name="reparto3">Leonardo DiCaprio, Ken Watanabe, Cillian Murphy, Joseph Gordon-Levitt, Tom Hardy</string>
+    <string name="clasificacion3">4.2</string>
+    <string name="sinopsis3">Dom Cobb (DiCaprio) es un experto en el arte de apropiarse, durante el sueño, de los secretos del subconsciente ajeno. Su extraña habilidad le ha convertido en un hombre muy cotizado en el mundo del espionaje, pero también lo ha condenado a ser un fugitivo y a renunciar a llevar una vida normal. Su única oportunidad para cambiar de vida será hacer exactamente lo contrario de lo que ha hecho siempre: la incepción, que consiste en implantar una idea en el subconsciente en lugar de sustraerla. Sin embargo, su plan se complica debido a la intervención de alguien que parece predecir cada uno de sus movimientos, alguien a quien sólo Cobb podrá descubrir.</string>
+
+    <string name="titulo4">El show de Truman</string>
+    <string name="director4">Peter Weir</string>
+    <string name="reparto4">Jim Carrey, Laura Linney, Ed Harris</string>
+    <string name="clasificacion4">4</string>
+    <string name="sinopsis4">Él no lo sabe, pero todo en la vida de Truman Burbank (Jim Carrey) es parte de un enorme plató de televisión. El productor ejecutivo Christof (Ed Harris) organiza "The Truman Show", una transmisión en vivo de cada movimiento de Truman capturado por cámaras ocultas. Cristof intenta controlar la mente de Truman, incluso eliminando a su verdadero amor, Sylvia (Natascha McElhone), del programa y reemplazándola por Meryl (Laura Linney). Sin embargo, a medida que Truman descubre gradualmente la verdad, debe decidir si actuar en consecuencia.</string>
+
+    <string name="titulo5">Blade Runner 2049</string>
+    <string name="director5">Denis Villeneuve</string>
+    <string name="reparto5">Ryan Gosling, Harrison Ford, Ana de Armas, Jared Leto, Sylvia Hoeks</string>
+    <string name="clasificacion5">3.6</string>
+    <string name="sinopsis5">Treinta años después de los eventos del primer film, un nuevo blade runner, K (Ryan Gosling) descubre un secreto profundamente oculto que podría acabar con el caos que impera en la sociedad. El descubrimiento de K le lleva a iniciar la búsqueda de Rick Deckard (Harrison Ford), un blade runner al que se le perdió la pista hace 30 años.</string>
+
+    <string name="titulo6">Interstellar</string>
+    <string name="director6">Christopher Nolan</string>
+    <string name="reparto6">Matthew McConaughey, Jessica Chastain, Anne Hathaway, Matt Damon</string>
+    <string name="clasificacion6">3.8</string>
+    <string name="sinopsis6">Alice y Michael Green son, a primera vista, el prototipo de matrimonio ideal estadounidense: ella es consejera de estudios en una escuela superior y él es piloto; tienen dos hijas y una bonita casa. Sin embargo, tras esta apacible imagen, Alice esconde un terrible secreto, es alcohólica. Sin unas copas se siente incapaz de afrontar cualquier compromiso social. Cuando su marido se da cuenta, intentará hacer frente a la situación convenciéndola de que ingrese en un centro de desintoxicación.</string>
+
+    <string name="tituloSerie1">Breaking Bad</string>
+    <string name="directorSerie1">Vince Gilligan , Peter Gould , Thomas Schnauz</string>
+    <string name="repartoSerie1">Bryan Cranston, Aarón Paul, Ana Gunn, Decano Norris, Bob Odenkirk</string>
+    <string name="clasificacionSerie1">4.7</string>
+    <string name="sinopsisSerie1">Un profesor de química con cáncer terminal se asocia con un exalumno suyo para fabricar y vender metanfetamina a fin de que su familia no pase apuros económicos.</string>
+    <string name="temporadasTotalSerie1">Temporadas: 5</string>
+    <string name="temporada1NumeroEpisodiosSerie1">Temporada 1: 7 episodios</string>
+    <string name="temporada1ListaSerie1">1. "Piloto" \n2. "El gato está en la bolsa..."\n3. "...Y la bolsa está en el río"\n4. "El hombre cáncer"\n5. "Materia gris"\n6. "Un puñado de locos sin nada"\n7. "Un trato sin complicaciones"</string>
+    <string name="temporada2NumeroEpisodiosSerie1">Temporada 2: 13 episodios</string>
+    <string name="temporada2ListaSerie1">1. "Siete treinta y siete" \n2. "Rehenes"\n3. "Mordida"\n4. "Cajeros automáticos"\n5. "Descanso"\n6. "Vuelvo en cinco minutos"\n7. "Negro y azul"\n8. "Mejor llamar a Saul"\n9. "Cuéntalo"\n10. "Domino"\n11. "Mandala"\n12. "Fénix"\n13. "ABQ"</string>
+    <string name="temporada3NumeroEpisodiosSerie1">Temporada 3: 13 episodios</string>
+    <string name="temporada3ListaSerie1">1. "No más" \n2. "Caballo sin nombre"\n3. "IFT"\n4. "Ver a la perra"\n5. "Mas"\n6. "Puesta a tierra"\n7. "Un minuto"\n8. "Negocio"\n9. "Kafkaesque"\n10. "Mosca"\n11. "Abiquiu"\n12. "Medidas plenas"\n13. "Medidas a la mitad"</string>
+    <string name="temporada4NumeroEpisodiosSerie1">Temporada 4: 13 episodios</string>
+    <string name="temporada4ListaSerie1">1. "Treinta y ocho especial" \n2. "No tengas miedo"\n3. "Abierto y cerrado"\n4. "Bala en la cabeza"\n5. "Lágrimas"\n6. "Tiro al blanco"\n7. "Problemas con los gringos"\n8. "Mejor a tiempo"\n9. "Pura coincidencia"\n10. "Salud"\n11. "Trampa"\n12. "Fin del camino"\n13. "Enfrentamiento"</string>
+    <string name="temporada5NumeroEpisodiosSerie1">Temporada 5: 16 episodios</string>
+    <string name="temporada5ListaSerie1">1. "Vivir libre o morir" \n2. "Madrigal"\n3. "Riesgo"\n4. "Cincuenta y uno"\n5. "Hombre muerto"\n6. "Compra y vende"\n7. "Di que mi nombre"\n8. "Gliding Over All"\n9. "Blood Money"\n10. "Buried"\n11. "Confessions"\n12. "Rabid Dog"\n13. "To'hajiilee"\n14. "Ozymandias"\n15. "Granite State"\n16. "Felina"</string>
+
+    <string name="tituloSerie2">Peaky Blinders</string>
+    <string name="directorSerie2">Steven Knight, Colm McCarthy, Tim Mielants, Otto Bathurst, Tom Harper</string>
+    <string name="repartoSerie2">Cillian Murtphy, Paul Anderson, Helen McCrory, Joe Cole, Sophie Rundle, Annabelle Wallis, Tom Hardy</string>
+    <string name="clasificacionSerie2">4.3</string>
+    <string name="sinopsisSerie2">Una familia de gánsters asentada en Birmingham tras la Primera Guerra Mundial (1914–1918), dirige un local de apuestas hípicas. Las actividades del ambicioso jefe de la banda llaman la atención del Inspector jefe Chester Campbell, un detective de la Real Policía Irlandesa que es enviado desde Belfast para limpiar la ciudad y acabar con la banda.</string>
+    <string name="temporadasTotalSerie2">Temporadas: 6</string>
+    <string name="temporada1NumeroEpisodiosSerie2">Temporada 1: 6 episodios</string>
+    <string name="temporada1ListaSerie2">1. Episode #1.1\n2. Episode #1.2\n3. Episode #1.3\n4. Episode #1.4\n5. Episode #1.5\n6. Episode #1.6</string>
+    <string name="temporada2NumeroEpisodiosSerie2">Temporada 2: 6 episodios</string>
+    <string name="temporada2ListaSerie2">1. Episode #2.1\n2. Episode #2.2\n3. Episode #2.3\n4. Episode #2.4\n5. Episode #2.5\n6. Episode #2.6</string>
+    <string name="temporada3NumeroEpisodiosSerie2">Temporada 3: 6 episodios</string>
+    <string name="temporada3ListaSerie2">1. Episode #3.1\n2. Episode #3.2\n3. Episode #3.3\n4. Episode #3.4\n5. Episode #3.5\n6. Episode #3.6</string>
+    <string name="temporada4NumeroEpisodiosSerie2">Temporada 4: 6 episodios</string>
+    <string name="temporada4ListaSerie2">1. "The Noose"\n2. "Heathens"\n3. "Blackbird"\n4. "Dangerous"\n5. "The Duel"\n6. "The Company"</string>
+    <string name="temporada5NumeroEpisodiosSerie2">Temporada 5: 6 episodios</string>
+    <string name="temporada5ListaSerie2">1. "Black Tuesday"\n2. "Black Cats"\n3. "Strategy"\n4. "The Loop"\n5. "The Shock"\n6. "Mr Jones"</string>
+    <string name="temporada6NumeroEpisodiosSerie2">Temporada 6: 6 episodios</string>
+    <string name="temporada6ListaSerie2">1. "Black Day"\n2. "Black Shirt"\n3. "Gold"\n4. "Sapphire"\n5. "The Road to Hell"\n6. "Lock and Key"</string>
+
+    <string name="tituloSerie3">Aquí no hay quien viva</string>
+    <string name="directorSerie3">Alberto Caballero, Laura Caballero, Iñaki Ariztimuño</string>
+    <string name="repartoSerie3">Fernando Tejero, Adrián Lastra, Malena Alterio, Loles León, Luis Merlo, Mariví Bilbao</string>
+    <string name="clasificacionSerie3">4.8</string>
+    <string name="sinopsisSerie3">La serie sigue la vida de los peculiares vecinos de un edificio en el centro de Madrid, lleno de situaciones cómicas y enredos.</string>
+    <string name="temporadasTotalSerie3">Temporadas: 5</string>
+    <string name="temporada1NumeroEpisodiosSerie3">Temporada 1: 17 episodios</string>
+    <string name="temporada1ListaSerie3">1. "Érase un adosado"\n2. "Érase un okupa"\n3. "Érase una boda"\n4. "Érase una reparación"\n5. "Érase un rumor"\n6. "Érase un aniversario"\n7. "Érase un indigente"\n8. "Érase un conflicto"\n9. "Érase un crimen"\n10. "Érase un resbalón"\n11. "Érase una de miedo"\n12. "Érase una huelga"\n13. "Érase una noche de San Juan"\n14. "Érase un despertar"\n15. "Érase un reencuentro"\n16. "Érase un club"\n17. "Érase una inauguración"</string>
+    <string name="temporada2NumeroEpisodiosSerie3">Temporada 2: 17 episodios</string>
+    <string name="temporada2ListaSerie3">1. "Érase un famoso"\n2. "Érase una traición"\n3. "Érase un malentendido"\n4. "Érase un sustituto"\n5. "Érase un fin de semana"\n6. "Érase un destierro"\n7. "Érase un bazar"\n8. "Érase un conflicto internacional"\n9. "Érase una avería"\n10. "Érase una multa"\n11. "Érase una mudanza"\n12. "Érase una becaria"\n13. "Érase un parón"\n14. "Érase un bulo"\n15. "Érase un dilema"\n16. "Érase una ruina"\n17. "Érase una explosión"</string>
+    <string name="temporada3NumeroEpisodiosSerie3">Temporada 3: 16 episodios</string>
+    <string name="temporada3ListaSerie3">1. "Érase una hipoteca"\n2. "Érase una caldera"\n3. "Érase una academia"\n4. "Érase un conflicto generacional"\n5. "Érase una estrella"\n6. "Érase un trío"\n7. "Érase un bache"\n8. "Érase un desalojo"\n9. "Érase una herencia"\n10. "Érase una recaída"\n11. "Érase un desencanto"\n12. "Érase una crisis"\n13. "Érase una fuga"\n14. "Érase un secreto"\n15. "Érase una reconciliación"\n16. "Érase una despedida"</string>
+    <string name="temporada4NumeroEpisodiosSerie3">Temporada 4: 14 episodios</string>
+    <string name="temporada4ListaSerie3">1. "Érase un reinicio"\n2. "Érase una inversión"\n3. "Érase un soborno"\n4. "Érase una dieta"\n5. "Érase un dilema"\n6. "Érase un déjà vu"\n7. "Érase una sorpresa"\n8. "Érase un escándalo"\n9. "Érase un cambio"\n10. "Érase una ruina"\n11. "Érase un desengaño"\n12. "Érase un compromiso"\n13. "Érase una subasta"\n14. "Érase un adiós"</string>
+    <string name="temporada5NumeroEpisodiosSerie3">Temporada 5: 13 episodios</string>
+    <string name="temporada5ListaSerie3">1. "Érase una vuelta"\n2. "Érase un dilema"\n3. "Érase un atraco"\n4. "Érase un escándalo"\n5. "Érase una disputa"\n6. "Érase un final"\n7. "Érase una elección"\n8. "Érase una sorpresa"\n9. "Érase una traición"\n10. "Érase un cambio"\n11. "Érase una conspiración"\n12. "Érase una mudanza"\n13. "Érase el último adiós"</string>
+
+    <string name="tituloSerie4">Los Serrano</string>
+    <string name="directorSerie4">Daniel Écija, Álex Pina</string>
+    <string name="repartoSerie4">Antonio Resines, Belén Rueda, Jesús Bonilla, Antonio Molero, Verónica Sánchez, Fran Perea</string>
+    <string name="clasificacionSerie4">4.5</string>
+    <string name="sinopsisSerie4">La serie sigue la vida de Diego Serrano, un viudo con tres hijos que se casa con Lucía Gómez, una mujer con dos hijas, formando una peculiar familia.</string>
+    <string name="temporadasTotalSerie4">Temporadas: 8</string>
+    <string name="temporada1NumeroEpisodiosSerie4">Temporada 1: 13 episodios</string>
+    <string name="temporada1ListaSerie4">1. "Ya se han casado"\n2. "Un padre perfecto"\n3. "Siempre nos quedará París"\n4. "El Atlético de Santa Justa F.C."\n5. "Me gusta cuando callas"\n6. "Cien maneras de cocinar la trucha"\n7. "No me llames iluso"\n8. "La noche del loro"\n9. "Superdotado"\n10. "El rey y yo"\n11. "Una noche en Mogambo"\n12. "Benny, Tonny y Marky"\n13. "La guerra de los Martínez"</string>
+    <string name="temporada2NumeroEpisodiosSerie4">Temporada 2: 13 episodios</string>
+    <string name="temporada2ListaSerie4">1. "Bienvenido, tío Francisco"\n2. "Enhorabuena por el programa"\n3. "El quinto sentido"\n4. "Trigo limpio"\n5. "Santiago vuelve a la escuela"\n6. "Donde hay jamón hay ilusión"\n7. "Sodoma y Gomera"\n8. "La mirada del tigre"\n9. "Eva al desnudo"\n10. "El rey de espadas"\n11. "Casado y monógamo"\n12. "Solo puede quedar uno"\n13. "Natalie"</string>
+    <string name="temporada3NumeroEpisodiosSerie4">Temporada 3: 19 episodios</string>
+    <string name="temporada3ListaSerie4">1. "El regreso del hijo pródigo"\n2. "El hombre y la bestia"\n3. "El hombre que susurraba a las frutitas"\n4. "Yo confieso"\n5. "El otro lado de la acera"\n6. "Los puentes de Burundi"\n7. "La Jamoneta"\n8. "El uso del matrimonio"\n9. "Corazón partío"\n10. "Recuerdo de Segovia"\n11. "El ciruelo"\n12. "La vuelta al cole"\n13. "Nunca subestimes el poder de un ñu"\n14. "Un año selvático"\n15. "La bicha"\n16. "Spanish Mazapán"\n17. "Descubriendo a Marta"\n18. "Don Quijote de Santa Justa"\n19. "El fluido básico"</string>
+    <string name="temporada4NumeroEpisodiosSerie4">Temporada 4: 21 episodios</string>
+    <string name="temporada4ListaSerie4">1. "Santiago, Gigoló…"\n2. "Ni media, ni guarra"\n3. "El Conde du Mamarrach"\n4. "Desde Londres con amor"\n5. "Ante la duda…"\n6. "La broma asesina"\n7. "Las bicicletas son para el verano"\n8. "Yo me bajo en la próxima"\n9. "¿Quién mató a Laura?"\n10. "Más allá del bien y del Eva"\n11. "Un pequeño gran hombre"\n12. "El secreto de la felicidad"\n13. "La fuerza del destino"\n14. "El lado oscuro del corazón"\n15. "Los siete magníficos"\n16. "El hombre que amaba a todas las mujeres"\n17. "Corazón indomable"\n18. "La última tentación"\n19. "El paraíso perdido"\n20. "Ladrón de bicicletas"\n21. "Hasta que la muerte nos separe"</string>
+    <string name="temporada5NumeroEpisodiosSerie4">Temporada 5: 26 episodios</string>
+    <string name="temporada5ListaSerie4">1. "El fichaje estrella"\n2. "Mi jefe no es mi amigo"\n3. "La noche de los Reyes Magos"\n4. "La madre de Africa"\n5. "El fontanero, su mujer y otras cosas de meter"\n6. "El síndrome de Peter Pan"\n7. "Siempre nos quedará París"\n8. "Mariano Forever"\n9. "No soy un Ángel"\n10. "Amistades peligrosas"\n11. "Rudolph, el reno de nariz roja"\n12. "Reyes contra Santa Claus"\n13. "El secreto de Raúl"\n14. "Segunda oportunidad"\n15. "Cosas que dejé en Santa Justa"\n16. "Las vecinas de Paco"\n17. "Alta tensión"\n18. "La ley de Murphy"\n19. "El hueso de la discordia"\n20. "Todos los hombres del presidente"\n21. "Nosotros, los Serrano"\n22. "Qué bello es vivir"\n23. "Aquí huele a muerto"\n24. "La extraña pareja"\n25. "Si yo fuera rico"\n26. "La gran evasión"</string>
+    <string name="temporada6NumeroEpisodiosSerie4">Temporada 6: 27 episodios</string>
+    <string name="temporada6ListaSerie4">1. "El hombre que vino del este"\n2. "El síndrome de Estocolmo"\n3. "El talonario de Aquiles"\n4. "Il bambino della strada"\n5. "Amar es transigir"\n6. "Los tres cerditos"\n7. "Paseando a Miss Emilia"\n8. "El declive del Imperio Serrano"\n9. "Las fases del amor"\n10. "El rastrillo zen"\n11. "El jamón maltés"\n12. "El Padrino IV"\n13. "Donde dije digo, digo Diego"\n14. "Soy Koala"\n15. "Ese olor tan característico…"\n16. "Charol de leopardo"\n17. "Breve historia de filosofía"\n18. "Algo pasa con Celia"\n19. "Un año de soledad"\n20. "La sombra de la Candelaria es alargada"\n21. "La penitencia va por detrás"\n22. "La mano amiga"\n23. "Siempre positivo, nunca negativo"\n24. "La parábola del hijo prófugo"\n25. "Dos mujeres y un Serrano"\n26. "Última llamada para Diego Serrano"\n27. "El síndrome Sarkosy"</string>
+    <string name="temporada7NumeroEpisodiosSerie4">Temporada 7: 16 episodios</string>
+    <string name="temporada7ListaSerie4">1. "No sin mi hijo"\n2. "La intimidad es una puerta cerrada"\n3. "Sorpresa, sorpresa"\n4. "Mientras hay resquemor, hay esperanza"\n5. "Cuando el amor llega así de esta manera"\n6. "Íntima fémina"\n7. "Mayormente, lo que sube, baja"\n8. "Encontronazos y desencuentros"\n9. "El camino recto de Santa Justa"\n10. "¡Pero por qué no te callas!"\n11. "El síndrome de la cabaña"\n12. "El hombre que no hacía daño a una mosca"\n13. "El síndrome de Sherwood"\n14. "El síndrome de la Moncloa"\n15. "El síndrome de la Moncloa (2ª parte)"\n16. "El síndrome de la Moncloa (3ª parte)"</string>
+    <string name="temporada8NumeroEpisodiosSerie4">Temporada 8: 8 episodios</string>
+    <string name="temporada8ListaSerie4">1. "Bienvenido al mundo Serrano"\n2. "La parienta, la cuñada, la suegra y Diego"\n3. "Tiburón V"\n4. "La carta de Pandora"\n5. "Vente pa' mi casa Fiti"\n6. "Divorcio a la serrana"\n7. "Desmontando a Diego"\n8. "Fin de curso"</string>
+
+
+</resources>
